@@ -1,6 +1,6 @@
 # UsedCarAuction
 
-USed Car Auction Prices is the final project for Data Science Bootcamp at Rakamin Academy. I and 6 other collaborators worked together to build a predictive model to achieve the company goals of time efficiency in the used car appraisal. We gathered dataset from (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Our project workflow consists of 4 stages, you can see a summary below: Rakamin Data Science Bootcamp Final Project.
+Used Car Auction Prices is the final project for Data Science Bootcamp at Rakamin Academy. I and 6 other collaborators worked together to build a predictive model to achieve the company goals of time efficiency in the used car appraisal. We gathered dataset from (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Our project workflow consists of 4 stages, you can see a summary below: Rakamin Data Science Bootcamp Final Project.
 
 ## Stage 0: Project Background
    In this stage, we need to understanding the details about the dataset, problem statement, goal, objective and business metrics of our project.
